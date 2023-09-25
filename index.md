@@ -3,7 +3,7 @@ layout: default
 title: 1988 EV Suzuki Samurai
 ---
 
-![245f12751f6e40c2a62bb16bacc90a6b-2](https://github.com/github/heart-services/assets/1479022/06bc5957-f30e-4f9a-993b-315db527a984)
+![samurai](https://github.com/rushtonmd/88evsamurai.github.io/assets/1479022/319f9aa9-977a-47f7-97fd-f53c5ce35dcc)
 
 <h1>Latest Posts</h1>
 
